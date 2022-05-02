@@ -2,5 +2,4 @@
 # Markdown to HTML
 from checkFiles import checkFiles
 
-if __name__ == "__main__":
-    checkFiles()
+checkFiles()
